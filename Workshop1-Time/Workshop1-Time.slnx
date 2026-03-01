@@ -2,5 +2,4 @@
   <Folder Name="/Time/">
     <Project Path="Time1/Time1.csproj" />
   </Folder>
-  <Project Path="Workshop1.Time/Workshop1.Time.csproj" Id="b44115e5-2e98-48e2-8cd7-e10121e88bd9" />
 </Solution>
